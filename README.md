@@ -1,4 +1,4 @@
-![](https://i.imgur.com/qzfzS2Q.jpg)
+![](https://media.giphy.com/media/w3SyMAibhghVibsnPF/giphy.gif)
 ### Hi there 👋
 
 <!--
