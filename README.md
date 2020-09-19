@@ -1,5 +1,4 @@
 ![](https://i.imgur.com/6aNwCdf.gif)
-### Hi there 👋
 
 <!--
 **camilogonzalez7424/camilogonzalez7424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
