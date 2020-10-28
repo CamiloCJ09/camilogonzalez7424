@@ -4,7 +4,7 @@
 <h2 allign="center">"I am a student of Telematics engineering."</h2>
 
 <p> 
-<img src="https://user-images.githubusercontent.com/69222739/97386133-33099780-18a1-11eb-8972-19fb137624e5.gif" align="right">Texto tan extenso como queramos que cubrirá la parte izquierda de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
+<img src="https://user-images.githubusercontent.com/69222739/97387368-cfcd3480-18a3-11eb-902c-921f382f8f31.gif" align="right">Texto tan extenso como queramos que cubrirá la parte izquierda de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
