@@ -4,7 +4,7 @@
 <h2 allign="center">"I am a student of Telematics engineering."</h2>
 
 <p> 
-<img src="https://user-images.githubusercontent.com/69222739/97387684-816c6580-18a4-11eb-941e-df4abfae75ea.gif" align="right">
+<img src="https://user-images.githubusercontent.com/69222739/97387876-d90ad100-18a4-11eb-84d4-a8c939e1a756.gif" align="right">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilogonzalez7424&label=Profile%20views&color=0e75b6&style=flat" alt="camilogonzalez7424" /> </p>
